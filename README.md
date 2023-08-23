@@ -42,7 +42,7 @@ Screenschots 1:
 
 
 
-Screenschots 1:
+Screenschots 2:
 
 ![Screenshot 2023-08-23 142000](https://github.com/somashekar17/Meme_Generator/assets/49157790/c3330275-282a-458f-8e4a-9bb68fbd0bb3)
 
