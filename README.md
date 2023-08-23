@@ -36,8 +36,9 @@ You can customize the appearance of the app, such as colors, fonts, and layout, 
 
 ## Screenshots 
 
-Screenschots 1:
-Front Page
+Screenschots 1:Front Page
+
+
 
 ![Screenshot 2023-08-23 141927](https://github.com/somashekar17/Meme_Generator/assets/49157790/b52c98a8-c0b5-43c9-ae08-1b7d8f52cbc0)
 
@@ -45,6 +46,8 @@ Front Page
 
 
 Screenschots 2:
+
+
 
 ![Screenshot 2023-08-23 142000](https://github.com/somashekar17/Meme_Generator/assets/49157790/c3330275-282a-458f-8e4a-9bb68fbd0bb3)
 
